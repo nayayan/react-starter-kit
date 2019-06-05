@@ -3,7 +3,6 @@ node_js:
   - 'stable'
   - '10'
   - '8'
-  - '6'
 env:
   - CXX=g++-4.8
 addons:

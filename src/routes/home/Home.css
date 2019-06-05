@@ -7,8 +7,6 @@
  * LICENSE.txt file in the root directory of this source tree.
  */
 
-@import '../../components/variables.css';
-
 .root {
   padding-left: 20px;
   padding-right: 20px;
@@ -44,4 +42,9 @@
 
 .newsDesc img {
   max-width: 100%;
+}
+
+.networkStatusMessage {
+  font-size: 0.875rem;
+  color: #ccc;
 }
